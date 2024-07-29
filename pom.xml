@@ -49,11 +49,11 @@
 
     <distributionManagement>
         <repository>
-            <id>nexus</id>
+            <id>NEXUS_CRED</id>
             <url>http://ec2-54-177-82-139.us-west-1.compute.amazonaws.com:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>nexus</id>
+            <id>NEXUS_CRED</id>
             <url>http://ec2-54-177-82-139.us-west-1.compute.amazonaws.com:8081/repository/maven-releases/</url>
         </snapshotRepository>
     </distributionManagement>
